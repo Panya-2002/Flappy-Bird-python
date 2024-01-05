@@ -4,7 +4,7 @@ import random
 pygame.init()
 
 # Constants
-SCREEN_WIDTH = 600
+SCREEN_WIDTH = 500
 SCREEN_HEIGHT = 400
 GROUND_HEIGHT = 100
 GRAVITY = 0.25
